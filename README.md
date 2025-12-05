@@ -1,2 +1,15 @@
-# NimAI
-This repository contains an implementation of an Artificial Intelligence agent for the Nim game, built using the Alpha-Beta Pruning search algorithm. The goal of this project is to demonstrate how a competitive search strategy can be applied to a classic logic game to create fast, efficient, and optimal decision-making.
+## Trabalho 1 de TI326 - Inteligência Artificial
+
+## 🧑‍🎓 Integrantes
+
+* Helena Beatriz Gomes Silva 
+* Marcelo Gonçalves Pedro Junior
+* Elisa Chen Huang 
+
+## 📝 Descrição
+
+Um trabalho sobre a criação de uma IA Competitiva Alpha-Beta Prunning para o jogo Nim.
+
+## 📋 Licença
+
+Este trabalho utiliza a licença [MIT](https://opensource.org/license/mit).
