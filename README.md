@@ -1,4 +1,4 @@
-## Trabalho 1 de TI326 - Inteligência Artificial
+## Trabalho 1 - Inteligência Artificial
 
 ## 🧑‍🎓 Integrantes
 
